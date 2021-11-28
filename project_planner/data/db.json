@@ -10,11 +10,11 @@
       "id": 2,
       "title": "Make marketing email",
       "details": "loren ipsum",
-      "complete": false
+      "complete": true
     },
     {
-      "title": "fsdfsdf",
-      "details": "<b>test</b><br>\n<p>fuck the king</p>",
+      "title": "Just a test",
+      "details": "lorem",
       "complete": false,
       "id": 3
     }
